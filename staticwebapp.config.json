@@ -5,7 +5,7 @@
     "routes": [
         {
             "route": "/api*",
-            "allowedRoles": ["authenticated"]
+            "allowedRoles": ["internalusers"]
         }
     ]
 }
